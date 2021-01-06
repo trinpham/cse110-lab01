@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## welcome to cse110-lab01
 
-You can use the [editor on GitHub](https://github.com/trinpham/cse110-lab01/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+todo for points:\
+[] pictures\
+[x] links\
+[] all other core markdown constructs listed [here](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)\
+--[x] headings\
+--[x] styling text\
+--[x] quoting text\
+--[] quoting code\
+--[] links\
+--[] section links\
+--[] relative links\
+--[] lists\
+--[] task lists\
+--[] mentioning people and teams\
+--[] referencing issues and pull requests\
+--[] referencing external resources\
+--[] content attachments\
+--[] using emoji\
+--[] paragraphs\
+--[] ignoring markdown formatting
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+optional:\
+[x] github pages theme\
+[] custom domain name for this page\
 
-### Markdown
+### picture
+![image]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### link
+[link to this page](https://trinpham.github.io/cse110-lab01/)
 
-```markdown
-Syntax highlighted code block
+### headings
+# the largest heading
+## the second largest heading
+### the size used throughout the page
+###### the smallest heading
+####### could it go smaller?\
+(no)
 
-# Header 1
-## Header 2
-### Header 3
+### styling text
+**bold**\
+__another way to bold__\
+*italics*\
+_another way to italicize_\
+~~two squiqqlies for strike through~~\
+***combo bold and italics***
 
-- Bulleted
-- List
+### quoting text ###
+> dont quote me on this
 
-1. Numbered
-2. List
+### quoting code ###
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trinpham/cse110-lab01/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
