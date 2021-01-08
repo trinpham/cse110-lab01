@@ -12,7 +12,7 @@ todo for points:\
 --[x] section links\
 --[x] relative links\
 --[x] lists\
---[x] task lists\
+--[x] task lists
 
 optional:\
 [x] github pages theme\
@@ -64,7 +64,7 @@ Find the link to this website [here](https://trinpham.github.io/cse110-lab01/)
 [Link](#section-links) to this section
 
 ### relative links
-[Link to README](README.md)
+[Link to README](image/ucsdgeisel.jpg)
 
 ### lists
 unordered list
