@@ -24,6 +24,7 @@ optional:\
 [x] using emoji\
 [x] paragraphs\
 [x] ignoring markdown formatting\
+[x] tables
 
 ### picture
 miss geisel and campus
@@ -64,7 +65,7 @@ Find the link to this website [here](https://trinpham.github.io/cse110-lab01/)
 [Link](#section-links) to this section
 
 ### relative links
-[Link to README](image/ucsdgeisel.jpg)
+[Link to image in image folder](image/ucsdgeisel.jpg)
 
 ### lists
 unordered list
@@ -99,3 +100,9 @@ hello again
 
 ### ignoring markdown formating
 i dont want to \*italize\* this text
+
+### tables
+
+| table | column1 |
+| --- | --- |
+| row1 | entry |
