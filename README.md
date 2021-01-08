@@ -10,20 +10,20 @@ todo for points:\
 --[x] quoting code\
 --[x] links\
 --[x] section links\
---[] relative links\
---[] lists\
---[] task lists\
---[] mentioning people and teams\
---[] referencing issues and pull requests\
---[] referencing external resources\
---[] content attachments\
---[] using emoji\
---[] paragraphs\
---[] ignoring markdown formatting
+--[x] relative links\
+--[x] lists\
+--[x] task lists\
 
 optional:\
 [x] github pages theme\
 [] custom domain name for this page\
+[] mentioning people and teams\
+[] referencing issues and pull requests\
+[] referencing external resources\
+[] content attachments\
+[x] using emoji\
+[x] paragraphs\
+[x] ignoring markdown formatting\
 
 ### picture
 ![image]()
@@ -87,9 +87,5 @@ nested lists
 - [x] complete the lab
 - [x] \(optional) create an optional task
 
-### mentioning people and teams
-@github/support ignore this notification im doing an assignment
-
-### referencing issues and pull requests
-
-###
+### using emoji
+:happyface:
