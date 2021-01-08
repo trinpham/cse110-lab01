@@ -1,9 +1,9 @@
 ## welcome to cse110-lab01
 
 todo for points:\
-[] pictures\
+[x] pictures\
 [x] links\
-[] all other core markdown constructs listed [here](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)\
+[x] all other core markdown constructs listed [here](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)\
 --[x] headings\
 --[x] styling text\
 --[x] quoting text\
@@ -26,6 +26,7 @@ optional:\
 [x] ignoring markdown formatting\
 
 ### picture
+miss geisel and campus
 ![miss geisel and campus](ucsdgeisel.jpg)
 
 ### link
@@ -63,7 +64,7 @@ Find the link to this website [here](https://trinpham.github.io/cse110-lab01/)
 [Link](#section-links) to this section
 
 ### relative links
-
+[Link to README](README.md)
 
 ### lists
 unordered list
