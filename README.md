@@ -7,9 +7,9 @@ todo for points:\
 --[x] headings\
 --[x] styling text\
 --[x] quoting text\
---[] quoting code\
---[] links\
---[] section links\
+--[x] quoting code\
+--[x] links\
+--[x] section links\
 --[] relative links\
 --[] lists\
 --[] task lists\
@@ -60,4 +60,19 @@ line 2 of chunk of code
 Find the link to this website [here](https://trinpham.github.io/cse110-lab01/)
 
 ### section links
-[Link](#section-links) to this section link
+[Link](#section-links) to this section
+
+### relative links
+
+### lists
+unordered list
+- eggs
+- cheese
+- ham
+
+ordered list
+1. eggs
+2. cheese
+3. ham
+
+###
