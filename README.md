@@ -81,4 +81,15 @@ nested lists
      - white eggs
      - brown eggs
 
+### task lists
+- [x] should've used these for the to do list above
+- [] change the to-do list above
+- [x] complete the lab
+- [x] \(optional) create an optional task
+
+### mentioning people and teams
+@github/support ignore this notification im doing an assignment
+
+### referencing issues and pull requests
+
 ###
