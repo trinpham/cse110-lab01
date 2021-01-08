@@ -26,7 +26,7 @@ optional:\
 [x] ignoring markdown formatting\
 
 ### picture
-![image]()
+![miss geisel and campus](ucsdgeisel.jpg)
 
 ### link
 [link to this page](https://trinpham.github.io/cse110-lab01/)
@@ -64,6 +64,7 @@ Find the link to this website [here](https://trinpham.github.io/cse110-lab01/)
 
 ### relative links
 
+
 ### lists
 unordered list
 - eggs
@@ -88,4 +89,12 @@ nested lists
 - [x] \(optional) create an optional task
 
 ### using emoji
-:happyface:
+:star:
+
+### paragraphs
+hello to the ta/tutor reading this
+
+hello again
+
+### ignoring markdown formating
+i dont want to \*italize\* this text
