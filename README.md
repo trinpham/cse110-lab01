@@ -51,4 +51,13 @@ _another way to italicize_\
 > dont quote me on this
 
 ### quoting code ###
+`quoting code` within text
+```
+chunk of code
+line 2 of chunk of code
+```
+### links
+Find the link to this website [here](https://trinpham.github.io/cse110-lab01/)
 
+### section links
+[Link](#section-links) to this section link
